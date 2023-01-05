@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently studying on Hangzhoudianzi University
+- 🌱 I’m currently learning go 
+- 📫 How to reach me：fengzcw@gmail.com
+- ⚡ Fun fact: my hair is still thick
