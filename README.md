@@ -56,7 +56,3 @@ You can use this api: https://github.com/Fengzdadi/github-readme-stats
 
 </p>
 
-
-### My GitHub Stats
-
-![Fengzc's github stats](https://github-readme-stats.vercel.app/api?username=Fengzdadi&show_icons=true)
