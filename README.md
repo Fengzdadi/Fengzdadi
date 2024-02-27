@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+You can use this api: https://github.com/Fengzdadi/github-readme-stats
 -->
 <p>
     <img width="55%" align="right" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=sachinchaturvedi93&show_icons=true&hide_border=true"/>
@@ -51,7 +51,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fengzdadi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
