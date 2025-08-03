@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently studying on **Hangzhoudianzi University**
-- 🌱 I’m currently learning go 
+- 🔭 I graduated from Hangzhou Dianzi University!
+- 🌱 I've recently become obsessed with graph structures. 
 - 📫 How to reach me：fengzcw@gmail.com
 - ⚡ Fun fact: my hair is still thick
 
