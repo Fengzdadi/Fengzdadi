@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   />
 </p>
 
-[![Deploy Hugo site to Pages](https://github.com/Fengzdadi/Fengzdadi.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/Fengzdadi/Fengzdadi.github.io/actions/workflows/deploy.yml)
+[![Deploy Hugo site to Pages](https://github.com/Fengzdadi/Fengzdadi.github.io/actions/workflows/deploy.yml/badge.svg)](https://fengzdadi.github.io/)
 
 <details>
   <summary><b>Toolbox</b> (click to expand)</summary>
