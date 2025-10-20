@@ -1,6 +1,12 @@
-### Hi there 👋
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/Fengzdadi)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](fengzcw@gmail.com)
+<div align="center">
+
+### Hi, I’m Fengze. 👋 Thanks for stopping by!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fengzdadi)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fengzcw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fengze-cai-569b572bb/)
+
+</div>
 
 <!--
 **Fengzdadi/Fengzdadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,41 +24,29 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I graduated from Hangzhou Dianzi University!
-- 🌱 I've recently become obsessed with graph structures. 
-- 📫 How to reach me：fengzcw@gmail.com
-- ⚡ Fun fact: my hair is still thick
-
-### Languages and Tools:
-
-<!-- Your github readme stats
-You can use this api: https://github.com/Fengzdadi/github-readme-stats
--->
-<p>
-    <img width="55%" align="right" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=fengzdadi&show_icons=true&hide_border=true"/>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fengzdadi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🎓 Recently arrived at **Cornell Tech** — already loving everything here!
+- 🌱 This term’s top 3:
+  1) take classes seriously
+  2) prepare for internships
+  3) level up my English
+- 🎯 Short-term: ship something small on Solana, explore NYC, and really settle into life here.
+- 🌆 Long-term: contribute to cities — use tech to help people — and stay happy & healthy.
+- ⚡ Fun fact: I actually kept all my hair throughout my entire undergraduate studies and application season—though unfortunately, a few strands turned white.
 
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fengzdadi&show_icons=true&hide=issues&hide_border=true&rank_icon=github&bg_color=00000000&cache_seconds=86400"
+    alt="Fengze's GitHub stats"
+  />
 </p>
+
+[![Deploy Hugo site to Pages](https://github.com/Fengzdadi/Fengzdadi.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/Fengzdadi/Fengzdadi.github.io/actions/workflows/deploy.yml)
+
+<details>
+  <summary><b>Toolbox</b> (click to expand)</summary>
+
+Python · PyTorch/PyG · Jupyter · NebulaGraph tooling · Redis · MongoDB · MySQL · Linux · Docker · Go
+
+</details>
 
