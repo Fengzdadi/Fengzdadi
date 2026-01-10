@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fengzdadi&show_icons=true&hide=issues&hide_border=true&rank_icon=github&bg_color=00000000&cache_seconds=86400"
-    alt="Fengze's GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fengzdadi&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Fengze's GitHub stats" />
 </p>
 
 [![Deploy Hugo site to Pages](https://github.com/Fengzdadi/Fengzdadi.github.io/actions/workflows/deploy.yml/badge.svg)](https://fengzdadi.github.io/)
