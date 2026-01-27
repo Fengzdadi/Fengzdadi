@@ -24,14 +24,26 @@ Here are some ideas to get you started:
 -->
 
 
-- 🎓 Recently arrived at **Cornell Tech** — already loving everything here!
-- 🌱 This term’s top 3:
-  1) take classes seriously
-  2) prepare for internships
-  3) level up my English
-- 🎯 Short-term: ship something small on Solana, explore NYC, and really settle into life here.
-- 🌆 Long-term: contribute to cities — use tech to help people — and stay happy & healthy.
-- ⚡ Fun fact: I actually kept all my hair throughout my entire undergraduate studies and application season—though unfortunately, a few strands turned white.
+👋 Hi, I’m Fengze
+
+- 🎓 Master’s student at **Cornell Tech** It’s been about 4 months since I arrived here, and I’m still actively exploring NYC — a city that’s complex, intense, and strangely inspiring.
+
+- 🌱 This term’s top 3
+  1. Figure out what I genuinely want to work on (not just what looks “correct”)
+  2. Keep pushing beyond my comfort zone — doing things I used to hesitate about
+  3. Find an **internship or a research assistant** opportunity
+
+- 🎯 Short-term
+  - Contribute consistently to open-source communities  
+  - Explore language-related research and technologies  
+  - Keep discovering the city and settling into life here  
+
+- 🌆 Long-term
+  - Contribute to cities  
+  - Use technology to help people  
+  - Stay happy & healthy  
+
+- ⚡ Fun fact: Turns out NYC is great — **just very expensive**.
 
 
 <p align="center">
