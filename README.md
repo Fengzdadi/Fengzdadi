@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Fengze
 
-- 🎓 Master’s student at **Cornell Tech** It’s been about 4 months since I arrived here, and I’m still actively exploring NYC — a city that’s complex, intense, and strangely inspiring.
+- 🎓 Master’s student at **Cornell Tech**: It’s been about 4 months since I arrived here, and I’m still actively exploring NYC — a city that’s complex, intense, and strangely inspiring.
 
 - 🌱 This term’s top 3
   1. Figure out what I genuinely want to work on (not just what looks “correct”)
