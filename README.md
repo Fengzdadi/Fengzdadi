@@ -45,10 +45,12 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Turns out NYC is great — **just very expensive**.
 
-
 <p align="center">
   <img src="https://my-github-stats-service.vercel.app/api?username=fengzdadi&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Fengze's GitHub stats" />
 </p>
+
+**Limited time offer for Chinese New Year! Happy New Year！**
+![CNY Metrics](https://raw.githubusercontent.com/Fengzdadi/Chinese-Style-Metrics/main/assets/cny_metrics.svg)
 
 [![Deploy Hugo site to Pages](https://github.com/Fengzdadi/Fengzdadi.github.io/actions/workflows/deploy.yml/badge.svg)](https://fengzdadi.github.io/)
 
