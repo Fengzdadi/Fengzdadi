@@ -1,0 +1,35 @@
+<svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">
+  <style>
+    .kw{fill:#8a2be2;font-weight:600}
+    .id{fill:#1f6feb}
+    .fn{fill:#0a3069}
+    .str{fill:#4f9bff}
+    .pn{fill:#57606a}
+    .code{font-size:15px}
+    .tt{fill:#57606a;font-size:13px}
+  </style>
+
+  <!-- window body -->
+  <rect x="8" y="8" width="624" height="344" rx="10" fill="#ffffff" stroke="#d8dee4" stroke-width="1.5"/>
+  <!-- title bar -->
+  <path d="M8 18 a10 10 0 0 1 10 -10 h604 a10 10 0 0 1 10 10 v28 h-624 z" fill="#ebedf0"/>
+  <line x1="8" y1="46" x2="632" y2="46" stroke="#d8dee4" stroke-width="1"/>
+  <!-- traffic lights -->
+  <circle cx="30" cy="27" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="27" r="6" fill="#febc2e"/>
+  <circle cx="74" cy="27" r="6" fill="#28c840"/>
+  <text x="320" y="31" text-anchor="middle" class="tt">fengze@cornell-tech: ~</text>
+
+  <!-- code -->
+  <text xml:space="preserve" class="code">
+    <tspan x="28" y="80"><tspan class="kw">package</tspan> <tspan class="id">main</tspan></tspan>
+    <tspan x="28" y="132"><tspan class="id">fengze</tspan> <tspan class="kw">:=</tspan> <tspan class="kw">Developer</tspan><tspan class="pn">{</tspan></tspan>
+    <tspan x="28" y="158"><tspan class="fn">    Name:    </tspan><tspan class="str">"Fengze"</tspan><tspan class="pn">,</tspan></tspan>
+    <tspan x="28" y="184"><tspan class="fn">    School:  </tspan><tspan class="str">"Cornell Tech"</tspan><tspan class="pn">,</tspan></tspan>
+    <tspan x="28" y="210"><tspan class="fn">    Role:    </tspan><tspan class="str">"RA @ Urban Tech Hub"</tspan><tspan class="pn">,</tspan></tspan>
+    <tspan x="28" y="236"><tspan class="fn">    Focus:   </tspan><tspan class="kw">[]string</tspan><tspan class="pn">{</tspan><tspan class="str">"AI Agents"</tspan><tspan class="pn">, </tspan><tspan class="str">"Open Source"</tspan><tspan class="pn">, </tspan><tspan class="str">"Graph ML"</tspan><tspan class="pn">},</tspan></tspan>
+    <tspan x="28" y="262"><tspan class="fn">    Now:     </tspan><tspan class="str">"high-intensity vibe coding"</tspan><tspan class="pn">,</tspan></tspan>
+    <tspan x="28" y="288"><tspan class="fn">    Mission: </tspan><tspan class="str">"help cities &amp; people w/ tech"</tspan><tspan class="pn">,</tspan></tspan>
+    <tspan x="28" y="314"><tspan class="pn">}</tspan></tspan>
+  </text>
+</svg>
