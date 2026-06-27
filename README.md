@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════ HEADER BANNER ══════════════════════╗ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=200&section=header&text=Fengze&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Master's%20%40%20Cornell%20Tech%20%7C%20AI%20Agents%20%7C%20Open%20Source&descAlignY=58&descSize=18&animation=twinkling" alt="header"/>
+<img width="100%" src="https://raw.githubusercontent.com/Fengzdadi/Fengzdadi/main/banner.svg" alt="header"/>
 
 <!-- ╔══════════════════════ TYPING TAGLINE ═════════════════════╗ -->
 <div align="center">
@@ -10,60 +10,42 @@
 
 <!-- ╔══════════════════════ SOCIAL BADGES ══════════════════════╗ -->
 <div align="center">
-  <a href="https://fengzdadi.github.io/"><img src="https://img.shields.io/badge/Website-0b1021?style=for-the-badge&logo=githubpages&logoColor=00C9FF"/></a>
-  <a href="mailto:fengzcw@gmail.com"><img src="https://img.shields.io/badge/Gmail-0b1021?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-  <a href="https://www.linkedin.com/in/fengze-cai-569b572bb/"><img src="https://img.shields.io/badge/LinkedIn-0b1021?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://fengzdadi.github.io/"><img src="https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:fengzcw@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fengze-cai-569b572bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Fengzdadi&style=for-the-badge&color=8A2BE2&label=VIEWS"/>
 </div>
 
 <br/>
 
-<!-- ╔══════════════════════ WHOAMI + STACK (2 columns) ═════════╗ -->
-<table>
-<tr>
-<td width="55%" valign="top">
+<!-- ╔══════════════════════ WHOAMI ════════════════════════════╗ -->
+## 🧬 whoami
 
-### 🧬 whoami
+<div align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/Fengzdadi/Fengzdadi/main/whoami.svg" alt="whoami" />
+</div>
 
-```go
-fengze := Developer{
-    Name:      "Fengze",
-    School:    "Cornell Tech",
-    Role:      "RA @ Urban Tech Hub",
-    Focus:     []string{
-        "AI Agents",
-        "Open Source",
-        "Graph ML",
-    },
-    Currently: "high-intensity vibe coding 🔥",
-    LongGame:  "help cities & people w/ tech",
-}
-```
+<br/>
 
-> ⚡ NYC is great... just *very* expensive.
+<!-- ╔══════════════════════ STACK ═════════════════════════════╗ -->
+## 🛠️ Stack
 
-</td>
-<td width="45%" valign="top">
+<img src="https://skillicons.dev/icons?i=python,pytorch,go,docker,linux,redis,mongodb,mysql,postgres&theme=light" alt="stack" />
 
-### 🛠️ Tech Stack
+<img height="20" align="absmiddle" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain-color.png"/> **LangChain** &nbsp;·&nbsp; <img height="20" align="absmiddle" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claudecode-color.png"/> **Claude Code** &nbsp;·&nbsp; <img height="20" align="absmiddle" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/codex-color.png"/> **Codex**
 
-**Languages & Infra**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,go,docker,linux,redis,mongodb,mysql&theme=dark" alt="stack" />
+<details>
+<summary><code>$ fengze --neofetch</code> &nbsp;<sub>(click to run ↵)</sub></summary>
 
-**AI / Agents**
+<br/>
 
-<img height="16" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain-color.png"/> **LangChain**
+<div align="center">
+  <img width="82%" src="https://raw.githubusercontent.com/Fengzdadi/Fengzdadi/main/neofetch.svg" alt="neofetch" />
+</div>
 
-**Daily drivers**
-
-<img height="16" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claudecode-color.png"/> **Claude Code** &nbsp;·&nbsp; <img height="16" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/codex-color.png"/> **Codex**
-
-<sub>+ PyG · Jupyter · NebulaGraph</sub>
-
-</td>
-</tr>
-</table>
+</details>
 
 <br/>
 
@@ -73,18 +55,21 @@ fengze := Developer{
 <table align="center">
 <tr>
 <td valign="top">
-  <img height="165" src="https://my-github-stats-service.vercel.app/api?username=fengzdadi&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://my-github-stats-service.vercel.app/api?username=fengzdadi&show_icons=true&rank_icon=github&hide_border=false&border_color=d8dee4&bg_color=ffffff&title_color=8a2be2&text_color=0a3069&icon_color=1f6feb&ring_color=8a2be2" alt="stats" />
 </td>
 <td valign="top">
-  <img height="165" src="https://streak-stats.demolab.com?user=Fengzdadi&hide_border=true&theme=tokyonight" alt="streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Fengzdadi&hide_border=false&background=ffffff&border=d8dee4&stroke=d8dee4&ring=8a2be2&fire=8a2be2&currStreakNum=1f6feb&currStreakLabel=8a2be2&sideNums=0a3069&sideLabels=0a3069&dates=8b98a6" alt="streak" />
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Fengzdadi/Fengzdadi/output/github-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fengzdadi/Fengzdadi/output/github-snake-dark.svg" />
+    <img width="98%" src="https://raw.githubusercontent.com/Fengzdadi/Fengzdadi/output/github-snake.svg" alt="snake" />
+  </picture>
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:8A2BE2&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/Fengzdadi/Fengzdadi/main/footer.svg" alt="footer"/>
