@@ -1,0 +1,53 @@
+<svg viewBox="0 0 760 348" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">
+  <style>
+    .lbl{fill:#8a2be2;font-weight:600}
+    .val{fill:#0a3069}
+    .host{fill:#1f6feb;font-weight:700}
+    .dim{fill:#8b98a6}
+    .code{font-size:15px}
+    .tt{fill:#57606a;font-size:13px}
+  </style>
+
+  <rect x="8" y="8" width="744" height="330" rx="10" fill="#ffffff" stroke="#d8dee4" stroke-width="1.5"/>
+  <path d="M8 18 a10 10 0 0 1 10 -10 h724 a10 10 0 0 1 10 10 v28 h-744 z" fill="#ebedf0"/>
+  <line x1="8" y1="46" x2="752" y2="46" stroke="#d8dee4" stroke-width="1"/>
+  <circle cx="30" cy="27" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="27" r="6" fill="#febc2e"/>
+  <circle cx="74" cy="27" r="6" fill="#28c840"/>
+  <text x="380" y="31" text-anchor="middle" class="tt">fengze@cornell-tech: ~/stack</text>
+
+  <!-- ASCII logo -->
+  <text xml:space="preserve" class="code" font-size="17" font-weight="700">
+    <tspan x="40" y="104" fill="#8a2be2">██████</tspan>
+    <tspan x="40" y="126" fill="#6b4be4">██</tspan>
+    <tspan x="40" y="148" fill="#1f6feb">█████</tspan>
+    <tspan x="40" y="170" fill="#1f6feb">██</tspan>
+    <tspan x="40" y="192" fill="#4f9bff">██</tspan>
+    <tspan x="40" y="214" fill="#4f9bff">██</tspan>
+  </text>
+
+  <!-- info: accurate categories -->
+  <text xml:space="preserve" class="code">
+    <tspan x="210" y="92"><tspan class="host">fengze</tspan><tspan class="dim">@</tspan><tspan class="host">cornell-tech</tspan></tspan>
+    <tspan x="210" y="112" class="dim">-------------------</tspan>
+    <tspan x="210" y="138"><tspan class="lbl">OS      </tspan><tspan class="val">macOS · zsh</tspan></tspan>
+    <tspan x="210" y="162"><tspan class="lbl">Lang    </tspan><tspan class="val">Python · Go</tspan></tspan>
+    <tspan x="210" y="186"><tspan class="lbl">ML      </tspan><tspan class="val">PyTorch · PyG</tspan></tspan>
+    <tspan x="210" y="210"><tspan class="lbl">Data    </tspan><tspan class="val">Redis · MongoDB · MySQL · PostgreSQL · NebulaGraph</tspan></tspan>
+    <tspan x="210" y="234"><tspan class="lbl">Infra   </tspan><tspan class="val">Docker · Linux</tspan></tspan>
+    <tspan x="210" y="258"><tspan class="lbl">AI      </tspan><tspan class="val">LangChain</tspan></tspan>
+    <tspan x="210" y="282"><tspan class="lbl">Agents  </tspan><tspan class="val">Claude Code · Codex</tspan></tspan>
+  </text>
+
+  <!-- color palette blocks -->
+  <g>
+    <rect x="210" y="306" width="20" height="14" rx="2" fill="#0a3069"/>
+    <rect x="234" y="306" width="20" height="14" rx="2" fill="#1f6feb"/>
+    <rect x="258" y="306" width="20" height="14" rx="2" fill="#4f9bff"/>
+    <rect x="282" y="306" width="20" height="14" rx="2" fill="#9ecbff"/>
+    <rect x="306" y="306" width="20" height="14" rx="2" fill="#8a2be2"/>
+    <rect x="330" y="306" width="20" height="14" rx="2" fill="#bf6bff"/>
+    <rect x="354" y="306" width="20" height="14" rx="2" fill="#28c840"/>
+    <rect x="378" y="306" width="20" height="14" rx="2" fill="#febc2e"/>
+  </g>
+</svg>
